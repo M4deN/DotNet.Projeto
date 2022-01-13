@@ -1,0 +1,11 @@
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\bin\Debug\DotNet.Projeto.exe.config
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\bin\Debug\DotNet.Projeto.exe
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\bin\Debug\DotNet.Projeto.pdb
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.FormularioInicial.resources
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.Properties.Resources.resources
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.exe
+C:\Users\charl\Desktop\DotNet.Projeto\DotNet.Projeto\obj\Debug\DotNet.Projeto.pdb
